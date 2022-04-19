@@ -3,3 +3,4 @@ Library/PackageCache/com.ptc.vuforia.engine@e3f8d2a94edf-1644838625000/Vuforia/P
 Packages/com.ptc.vuforia.engine-10.5.5.tgz filter=lfs diff=lfs merge=lfs -text
 Library/ArtifactDB filter=lfs diff=lfs merge=lfs -text
 Library/PackageCache/com.ptc.vuforia.engine@f2f24f99c881-1650359020072/Vuforia/Plugins/OSXUniversal/universal/VuforiaEngine.bundle/Contents/MacOS/VuforiaEngine filter=lfs diff=lfs merge=lfs -text
+Library/il2cpp_cache/linkresult_FD983E556D3521307F4C837099D42B16 filter=lfs diff=lfs merge=lfs -text
